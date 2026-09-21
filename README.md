@@ -4,4 +4,4 @@ This repository will help me organize and track my study notes from different le
 
 ## Files
 - notes.md - Contains the lesson notes and their summaries.
-- reviewers.md - Contains review materials for incoming or upcoming quizzes and exams.
+- reviewers.md - Contains review materials for incoming or upcoming quizzes and exams
